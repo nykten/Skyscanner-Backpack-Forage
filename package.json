@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@skyscanner/backpack-web": "^38.5.0"
+  }
+}
